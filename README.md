@@ -1,4 +1,5 @@
 datasciencecoursera
 ===================
 
-This is for Course Project of Data Scientist's Toolbox
+This is for Course Project of Data Scientist's Toolbox, by BJalali.
+
